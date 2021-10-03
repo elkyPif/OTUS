@@ -1,6 +1,6 @@
 # OTUS
 ## Python QA Engineer
 
-Homework#1
+Homework№1
 
 
